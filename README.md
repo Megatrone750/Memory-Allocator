@@ -7,7 +7,7 @@ Simple memory allocator which is custom implementation of malloc(),calloc(),free
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Megatrone750/Memory-Allocator/blob/main/Memory.png?raw=true)
+![App Screenshot](memory_layout.png)
 
 
 
